@@ -1,0 +1,1 @@
+# script-andar-corrigido
